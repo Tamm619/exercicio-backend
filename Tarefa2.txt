@@ -1,0 +1,18 @@
+1- Acordo
+2- Ao acordar, abro os olhos
+3- Tiro o cobertor de cima de mim
+4- Levanto da cama
+5- Caminho ao banheiro
+6- Entro no banheiro
+7- Escovo os dentes
+8- Vou para a sala
+9- Faço um café da manhã
+10- Volto para meu quarto
+11- Ligo meu computador
+12- Sento na cadeira
+13- Assisto vídeos/lives enquanto como
+14- Ao terminar de comer levo o prato e copo para a cozinha
+15- Lavo o que sujei
+16- Volto para o quarto
+17- Volto para a cadeira
+18- Começo a estudar
