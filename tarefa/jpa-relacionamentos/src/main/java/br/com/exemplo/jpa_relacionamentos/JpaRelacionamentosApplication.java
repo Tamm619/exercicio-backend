@@ -1,13 +1,13 @@
-package com.exemplo.projeto;
+package br.com.exemplo.jpa_relacionamentos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoApplication {
+public class JpaRelacionamentosApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProjetoApplication.class, args);
+        SpringApplication.run(JpaRelacionamentosApplication.class, args);
     }
 
 }
