@@ -1,13 +1,13 @@
-package br.com.exemplo.maven;
+package br.com.exemplo.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MavenApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(MavenApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
